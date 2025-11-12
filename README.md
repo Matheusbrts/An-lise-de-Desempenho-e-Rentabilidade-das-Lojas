@@ -8,7 +8,7 @@ A análise se baseia em métricas financeiras e de satisfação do cliente para 
 
 ## 📊 Conclusão Executiva
 
-Com base na análise de rentabilidade (Margem Bruta) e faturamento, a loja com o desempenho mais fraco é a **Loja 4**.
+Com base na análise de faturamento, a loja com o desempenho mais fraco é a **Loja 4**.
 
 **Recomendação:**
 
