@@ -32,11 +32,12 @@ A venda da Loja 4 permite ao Sr. João manter as unidades mais lucrativas (Loja 
 
 ## 📁 Estrutura do Repositório
 
-*   `alurastorebrasil.ipynb`: Script Python utilizado para carregar, tratar e analisar os dados, gerando as métricas e os gráficos.
-*   `relatorio_completo.md`: O relatório final detalhado com todas as conclusões e recomendações.
+*   `alurastorebrasil.ipynb`: Script Python utilizado para carregar, tratar e analisar os dados, gerando as métricas e os gráficos e apresentando o relatório ao final da análise.
 *   `rentabilidade_loja.png`: Gráfico de Rentabilidade Total por Loja.
 *   `faturamento_loja.png`: Gráfico de Faturamento Total por Loja.
 *   `media_avaliacoes.png`: Gráfico de Média de Avaliações por Loja.
+*   `produtos_mais_vendidos.png`: Quantidade de Produtos mais Vendidos 
+
   
 
 ---
