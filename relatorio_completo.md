@@ -27,7 +27,8 @@ O desempenho financeiro é impulsionado pelo volume de vendas, onde a **Loja 1**
 *   **Faturamento Total:** A Loja 1 registra o maior volume de vendas, demonstrando o maior desempenho entre as unidades. A Loja 4, por outro lado, registrou o menor faturamento.
 
 
-![image.png](attachment:image.png)
+[![image.png](attachment:image.png)
+](https://github.com/Matheusbrts/An-lise-de-Desempenho-e-Rentabilidade-das-Lojas/blob/main/Imagens/img1.png)
 
 ### 2.2. Qualidade e Satisfação do Cliente
 
