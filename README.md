@@ -40,4 +40,4 @@ A venda da Loja 4 permite ao Sr. João manter as unidades mais lucrativas (Loja 
   
 
 ---
-*Desenvolvido por: [Matheus Brito ]*
+*Desenvolvido por: [Matheus Brito]*
