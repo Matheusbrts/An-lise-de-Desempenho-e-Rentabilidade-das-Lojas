@@ -23,11 +23,6 @@ A **Loja 4** é a candidata ideal para a venda.
 
 A venda da Loja 4 permite ao Sr. João manter as unidades mais lucrativas (Loja 1, 2 e 3) e utilizar o capital para o novo negócio.
 
-## 🔎 Análise Completa
-
-Para detalhes sobre a metodologia, tratamento de dados, gráficos de Faturamento, Rentabilidade, Avaliações e as implicações estratégicas, acesse o relatório completo:
-
-➡️ **[Voce pode encontrar o rel)**
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -38,11 +33,11 @@ Para detalhes sobre a metodologia, tratamento de dados, gráficos de Faturamento
 ## 📁 Estrutura do Repositório
 
 *   `alurastorebrasil.ipynb`: Script Python utilizado para carregar, tratar e analisar os dados, gerando as métricas e os gráficos.
-*   `RELATORIO_FINAL_CONSOLIDADO.md`: O relatório final detalhado com todas as conclusões e recomendações.
+*   `relatorio_completo.md`: O relatório final detalhado com todas as conclusões e recomendações.
 *   `rentabilidade_loja.png`: Gráfico de Rentabilidade Total por Loja.
 *   `faturamento_loja.png`: Gráfico de Faturamento Total por Loja.
 *   `media_avaliacoes.png`: Gráfico de Média de Avaliações por Loja.
   
 
 ---
-*Desenvolvido por: Matheus Brito ]*
+*Desenvolvido por: [Matheus Brito ]*
