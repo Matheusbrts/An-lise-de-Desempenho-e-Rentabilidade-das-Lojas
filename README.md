@@ -27,7 +27,7 @@ A venda da Loja 4 permite ao Sr. João manter as unidades mais lucrativas (Loja 
 
 Para detalhes sobre a metodologia, tratamento de dados, gráficos de Faturamento, Rentabilidade, Avaliações e as implicações estratégicas, acesse o relatório completo:
 
-➡️ **[RELATÓRIO DE ANÁLISE COMPLETA](RELATORIO_FINAL_CONSOLIDADO.md)**
+➡️ **[Voce pode encontrar o rel)**
 
 ## 🛠️ Tecnologias Utilizadas
 
